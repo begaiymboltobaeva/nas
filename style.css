@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.kyrgyz{
+    width: 600px;
+    height: 800px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.box{
+    width: 490px;
+}
+.text{
+    font-size: 25px;
+}
+.germany{
+    width: 600px;
+    height: 800px;
+    background-color: darkolivegreen;
+    text-align: center;
+}
+.box2{
+    width: 490px;
+}
+.text2{
+    font-size: 25px;
+}
